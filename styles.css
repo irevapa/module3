@@ -1,0 +1,52 @@
+/* Base styles */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fefefe;
+    padding: 20px;
+    color: #333;
+}
+
+/* Header */
+.header-example {
+    font-size: 36px;
+    color: #9CAF88; /* Sage green */
+    margin-bottom: 20px;
+}
+
+/* Favorite things paragraph */
+.color-example {
+    color: #9CAF88;
+    background-color: #E6E6FA; /* Lavender */
+    border: 2px solid #9CAF88;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+/* List */
+.list-example {
+    color: #444;
+    list-style-type: circle;
+    margin-top: 15px;
+    padding-left: 25px;
+}
+
+/* Thank you message */
+.text-example {
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: #6B7C6C;
+    margin-top: 20px;
+}
+
+/* Div with heart */
+.div-example {
+    background-color: #E6E6FA;
+    border: 2px dashed #9CAF88;
+    padding: 15px;
+    border-radius: 12px;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
